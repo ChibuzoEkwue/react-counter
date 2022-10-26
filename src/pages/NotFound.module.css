@@ -1,0 +1,20 @@
+.parent {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.box {
+    margin-top: 2rem;
+}
+
+.box img {
+    width: 350px;
+}
+
+.box h2 {
+    text-align: center;
+    margin-top: 2rem;
+}
